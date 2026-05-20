@@ -1,0 +1,100 @@
+pwd – Show current directory
+ls – List files and folders
+ls -l – Long listing format
+ls -a – Show hidden files
+cd – Change directory
+cd .. – Move one directory back
+mkdir – Create directory
+rmdir – Remove empty directory
+touch – Create empty file
+cat – Display file content
+more – View file page by page
+less – View large files
+head – Show first 10 lines
+tail – Show last 10 lines
+tail -f – Monitor logs live
+cp – Copy files/directories
+mv – Move or rename file
+rm – Remove file
+rm -rf – Force remove directory
+clear – Clear terminal screen
+echo – Print text/output
+whoami – Show current user
+id – Show user and group ID
+uname – Show OS information
+uname -a – Detailed system info
+hostname – Show server hostname
+date – Show current date/time
+cal – Display calendar
+uptime – Show server uptime
+history – Command history
+man – Open manual page
+whatis – Short command description
+which – Show command path
+whereis – Locate binary/source/man files
+find – Search files/directories
+locate – Quickly find files
+grep – Search text in files
+grep -i – Ignore case search
+grep -v – Exclude matching lines
+awk – Text processing tool
+sed – Stream editor for text replace
+cut – Extract columns from file
+sort – Sort file content
+uniq – Remove duplicate lines
+wc – Count lines/words/chars
+tr – Translate characters
+xargs – Convert input to arguments
+tee – Save and display output
+paste – Merge file lines
+diff – Compare two files
+cmp – Compare files byte by byte
+comm – Compare sorted files
+file – Identify file type
+stat – File details/status
+chmod – Change permissions
+chown – Change file owner
+chgrp – Change group ownership
+umask – Default permission settings
+ps – Show running processes
+ps -ef – Detailed process list
+top – Real-time process monitoring
+htop – Interactive process monitor
+kill – Stop process by PID
+killall – Kill process by name
+pkill – Kill process using pattern
+jobs – Show background jobs
+bg – Run process in background
+fg – Bring process to foreground
+nohup – Run command after logout
+free -m – Check memory usage
+df -h – Check disk space
+du -sh – Check folder size
+mount – Mount filesystem
+umount – Unmount filesystem
+fdisk -l – Disk partition details
+lsblk – List block devices
+mkfs – Create filesystem
+fsck – Check filesystem errors
+ping – Test network connectivity
+ifconfig – Network configuration
+ip addr – Show IP address
+netstat – Network statistics
+ss – Socket statistics
+traceroute – Trace network path
+nslookup – DNS lookup
+dig – Detailed DNS query
+curl – Transfer data from URL
+wget – Download files from internet
+scp – Secure file copy
+ssh – Remote server login
+ftp – File transfer protocol
+telnet – Remote connection tool
+tar – Archive files
+gzip – Compress files
+gunzip – Decompress .gz files
+zip – Create zip archive
+unzip – Extract zip archive
+crontab -e – Schedule jobs
+service – Manage services
+systemctl – Control systemd services
